@@ -14,17 +14,7 @@
 
 # Software/Packages Used
 
-* Python 3.5
 
-* OpenCV 3.4
-
-* Scikit-Learn
-
-* Scikit-Image
-
-* Imutils
-
-* cPickle
 
 # Algorithms & Methods Used
 
